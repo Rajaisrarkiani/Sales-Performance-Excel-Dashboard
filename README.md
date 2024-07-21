@@ -58,6 +58,6 @@ Big thanks to [Data X](https://www.linkedin.com/company/datax-official/) for the
 For any inquiries or further information, you can reach me at:
 
 - [LinkedIn](https://www.linkedin.com/in/raja-israr/)
-- [Email](rajaisrarkiani01@gmail.com.com)
+- [Email](mailto:rajaisrarkiani01@gmail.com)
 - [GitHub](https://github.com/Rajaisrarkiani)
 
